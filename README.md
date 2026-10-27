@@ -1,3 +1,3 @@
 # Site de mon app iOS
 
-Pages d'aide et de confidentialité, publiées par GitHub Pages à https://tatianat13.github.io/
+Pages d'aide et de confidentialité, publiées par GitHub Pages à https://pognon.app/
