@@ -1,5 +1,3 @@
-# Site de Pognon
+# TatianaT13
 
-Pages d'aide et de confidentialité, en français et en anglais, publiées par GitHub Pages à https://pognon.app/
-
-Textes © Pognon. Tous droits réservés.
+Site du compte GitHub. Le site de Pognon (https://pognon.app/) vit dans le dépôt pognon-site.
